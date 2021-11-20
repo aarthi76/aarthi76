@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarthi76
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently a Sophomore majoring in Information Technology and a Freshman majoring in Data Science.
+- 🌱 I’m currently a Junior majoring in Information Technology and a Sophomore majoring in Data Science.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me https://linktr.ee/aarthi_a
 
